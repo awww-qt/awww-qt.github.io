@@ -1,8 +1,4 @@
-# UNDER CONSTRUCTION
+# Work in Progress
 	
-This page is currently **Under Construction**, please return soon for updates 
+This page is currently a **Work in Progress**, please return soon for updates 
 
-
-For now, enjoy *Sudoku*! :D
-
-Code ~~shamelessly~~ stolen from [here](https://github.com/bobdevine/SudokuGame).
